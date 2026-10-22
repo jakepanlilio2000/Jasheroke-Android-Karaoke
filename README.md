@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="ANDROID" src="https://github.com/user-attachments/assets/87042b51-978c-49b2-9c27-44a14a69ba0e" />
 
-**Version 2.0.0** | StackSync Solutions
+**Version 2.1.0** | StackSync Solutions
 
 English | [Tagalog](README.tl.md)
 
