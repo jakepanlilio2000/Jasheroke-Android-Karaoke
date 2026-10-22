@@ -2,7 +2,7 @@
 
 <img width="1672" height="941" alt="ANDROID" src="https://github.com/user-attachments/assets/cdc60780-fa7c-4080-8d2a-b075295f5750" />
 
-**Bersyon 2.0.0** | StackSync Solutions
+**Bersyon 2.1.0** | StackSync Solutions
 
 [English](README.md) | Tagalog
 
